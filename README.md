@@ -1,1 +1,1 @@
-# Employee-Resignation-Prediction
+Employee turnover is costly for companies. Replacing skilled employees requires time, money, and training resources. This project builds a predictive analytics system that identifies employees who are at high risk of resigning, allowing HR teams to intervene early.The system analyzes historical employee data, learns patterns associated with attrition, and predicts resignation probability for each employee.
